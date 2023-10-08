@@ -1,4 +1,17 @@
 # project2-201R
+update 2 currently still sunday 10/8 at 12:55 am
+
+i did it !!! 
+
+the file directories i updated with the individual txt files 
+and i put the final touches on the code functionality 
+
+ahhh i am so happy with my work here 
+
+i worked on this file for a total of about 20 hours 
+
+i had to do a lot of research into errors i was getting and how to fix them 
+im pretty proud of myself 
 
 currently sunday 10/8 at 12:18 am 
 one problem i know i need to fix is that the files are coded to recognize my local file names 
