@@ -1,0 +1,280 @@
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review1.txt
+FORMATTED REVIEW:
+This was an amazing restaurant! The pizza crust was delicious, and I loved the p
+ORIGINAL SENTIMENT: 5.62
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+An interesting local place with river views and good food in the moderate price 
+ORIGINAL SENTIMENT: 3.11
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+Reservations for diner are a must, particularly on Friday and Saturday or any da
+ORIGINAL SENTIMENT: 0.48
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+Two appetizers and two entrees with nonalcoholic drinks set us back $91 with tip
+ORIGINAL SENTIMENT: -0.91
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+We sat at a lovely set, uncomplicated, table with a beautiful view of the Navesi
+ORIGINAL SENTIMENT: 2.96
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+On this day I opened with the caprese salad which was very nicely done. The pest
+ORIGINAL SENTIMENT: 0.48
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+I kept my entree simple: fish and chips. The fish was a nice thick piece of cod,
+ORIGINAL SENTIMENT: 1.94
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+Overall a good place to dine before a show or after a late afternoon/ early even
+ORIGINAL SENTIMENT: 3.88
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+It's not child adverse and a few dotted the tables while we were there but, at d
+ORIGINAL SENTIMENT: 0.06
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+
+ORIGINAL SENTIMENT: 0.00
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review2.txt
+FORMATTED REVIEW:
+It's a thumbs up here.
+ORIGINAL SENTIMENT: 0.44
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review3.txt
+FORMATTED REVIEW:
+"Jennifer is very nice and responsive. The location of the apt is great. However
+ORIGINAL SENTIMENT: 5.77
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review3.txt
+FORMATTED REVIEW:
+- the bed was small and smelled bad. The apt also smelled weird. We had to sleep
+ORIGINAL SENTIMENT: -6.53
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review3.txt
+FORMATTED REVIEW:
+- the building is very old.
+ORIGINAL SENTIMENT: 0.15
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review3.txt
+FORMATTED REVIEW:
+- the apt is not clean and due to construction it was very noisy.
+ORIGINAL SENTIMENT: -2.84
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review3.txt
+FORMATTED REVIEW:
+However. We do appreciate the stay and the location"
+ORIGINAL SENTIMENT: 1.03
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review4.txt
+FORMATTED REVIEW:
+Garon is undoubtedly the most welcoming and nice host ever. You feel at home rig
+ORIGINAL SENTIMENT: 3.78
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review4.txt
+FORMATTED REVIEW:
+It was so nice staying at Garon's! For the first glance it didn't look very fanc
+ORIGINAL SENTIMENT: 1.63
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review4.txt
+FORMATTED REVIEW:
+"I had the most beautiful stay,
+ORIGINAL SENTIMENT: 2.34
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review4.txt
+FORMATTED REVIEW:
+Garon is a very special person and an absolute angel, made me feel totally at ho
+ORIGINAL SENTIMENT: -2.34
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review4.txt
+FORMATTED REVIEW:
+I throughly recommend Bliss Art Space!
+ORIGINAL SENTIMENT: 0.34
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review6.txt
+FORMATTED REVIEW:
+For my stay the apartment was also not ideal, there is no couch, only cushions o
+ORIGINAL SENTIMENT: 2.28
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review6.txt
+FORMATTED REVIEW:
+The place was clean in general, only the bathroom and the shower were really not
+ORIGINAL SENTIMENT: -1.31
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review6.txt
+FORMATTED REVIEW:
+The kitchen was clean and well equipped.
+ORIGINAL SENTIMENT: -0.25
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review6.txt
+FORMATTED REVIEW:
+Apartment has an AC, which is definitely a pro.
+ORIGINAL SENTIMENT: 0.36
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review7.txt
+FORMATTED REVIEW:
+The Midtown Castle is a beautiful place to stay in the center of the city. Truly
+ORIGINAL SENTIMENT: 4.58
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review7.txt
+FORMATTED REVIEW:
+This apartment is convenient and functional. The huge skylight makes it feel ope
+ORIGINAL SENTIMENT: 0.17
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review7.txt
+FORMATTED REVIEW:
+Great place. Would definitely recommend! Jennifer is really sweet and easy going
+ORIGINAL SENTIMENT: 6.93
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review7.txt
+FORMATTED REVIEW:
+Beautiful and stylish spot in a very unique building! Jennifer is a wonderful ho
+ORIGINAL SENTIMENT: 8.46
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review7.txt
+FORMATTED REVIEW:
+Jennifer's space was such a lovely experience. PreCheckin and checkin was detail
+ORIGINAL SENTIMENT: -0.99
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review7.txt
+FORMATTED REVIEW:
+"Jennifer was super friendly and helpful. Great host with an amazing studio apar
+ORIGINAL SENTIMENT: 7.74
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review8.txt
+FORMATTED REVIEW:
+Would say our greatest compliments to Jennifer, the host of Midtown Castle. We s
+ORIGINAL SENTIMENT: 2.99
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review8.txt
+FORMATTED REVIEW:
+The apartment is pretty spacious and great located - the 5-th Ave right around t
+ORIGINAL SENTIMENT: 6.13
+
+
+
+PROCESSING FILE: C:/Users/abbyb/source/repos/base project2/review8.txt
+FORMATTED REVIEW:
+We had a wonderful stay at Jennifer's charming apartment! They were very organiz
+ORIGINAL SENTIMENT: 4.95
+
+
+
