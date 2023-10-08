@@ -26,30 +26,6 @@
     <Text Include="..\..\base project2\sentiment.txt">
       <Filter>Source Files</Filter>
     </Text>
-    <Text Include="..\..\base project2\review1.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review2.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review3.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review4.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review5a.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review6.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review7.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-    <Text Include="..\..\base project2\review8.txt">
-      <Filter>Source Files</Filter>
-    </Text>
     <Text Include="..\..\base project2\reviewsPart1.txt">
       <Filter>Source Files</Filter>
     </Text>

@@ -19,34 +19,32 @@ int main() {
     srand(static_cast<unsigned int>(time(0))); // random number 
 
     vector<WordStruct> wordList;
-    if (readSentimentWordList(wordList, "C:/Users/abbyb/source/repos/base project2/sentiment.txt") == -1) {
+    if (readSentimentWordList(wordList, "sentiment.txt") == -1) {
         return 1;
     }
 
     vector<string> fileNames = {
-        "C:/Users/abbyb/source/repos/base project2/review1.txt",
-        "C:/Users/abbyb/source/repos/base project2/review2.txt",
-        "C:/Users/abbyb/source/repos/base project2/review3.txt",
-        "C:/Users/abbyb/source/repos/base project2/review4.txt",
-        "C:/Users/abbyb/source/repos/base project2/review6.txt",
-        "C:/Users/abbyb/source/repos/base project2/review7.txt",
-        "C:/Users/abbyb/source/repos/base project2/review8.txt"
+        "review1.txt",
+        "review2.txt",
+        "review3.txt",
+        "review4.txt",
+        "review5a.txt",
+        "review6.txt",
+        "review7.txt",
+        "review8.txt"
     };
 
-    ofstream outFile1("C:/Users/abbyb/source/repos/base project2/reviewsPart1.txt");
+    ofstream outFile1("reviewsPart1.txt");
     streambuf* originalCoutBuffer = cout.rdbuf();
     cout.rdbuf(outFile1.rdbuf());
 
     for (const string& fileName : fileNames) {
         vector<string> reviews;
-        if (readFile(reviews, fileName) == -1) {
-            continue;
+        int fileResult = readFile(reviews, fileName);
+        if (fileResult == -1 || fileResult == -2) {
+            continue; 
         }
-
-        if (containsInvalidCharacters(reviews[0])) {
-            cout << "Cannot process file " << extractFileName(fileName) << " due to invalid characters." << endl;
-            continue;  
-        }
+        processReviews(reviews, wordList, fileName);
     }
 
     cout.rdbuf(originalCoutBuffer);
@@ -54,7 +52,7 @@ int main() {
 
     generateReviewsPart1(wordList); 
 
-    ofstream outFile("C:/Users/abbyb/source/repos/base project2/reviewsPart2.txt");
+    ofstream outFile("reviewsPart2.txt");
     cout.rdbuf(outFile.rdbuf());
 
     for (const string& fileName : fileNames) {
@@ -68,7 +66,7 @@ int main() {
     cout.rdbuf(originalCoutBuffer);
     outFile.close();
 
-    ifstream inFile("C:/Users/abbyb/source/repos/base project2/reviewsPart2.txt");
+    ifstream inFile("reviewsPart2.txt");
     string line;
     while (getline(inFile, line)) {
         cout << line << endl;

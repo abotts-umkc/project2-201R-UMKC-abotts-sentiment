@@ -131,14 +131,6 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\base project2\review1.txt" />
-    <Text Include="..\..\base project2\review2.txt" />
-    <Text Include="..\..\base project2\review3.txt" />
-    <Text Include="..\..\base project2\review4.txt" />
-    <Text Include="..\..\base project2\review5a.txt" />
-    <Text Include="..\..\base project2\review6.txt" />
-    <Text Include="..\..\base project2\review7.txt" />
-    <Text Include="..\..\base project2\review8.txt" />
     <Text Include="..\..\base project2\reviewsPart1.txt" />
     <Text Include="..\..\base project2\reviewsPart2.txt" />
     <Text Include="..\..\base project2\sentiment.txt" />

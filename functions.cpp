@@ -53,7 +53,7 @@ int readSentimentWordList(vector<WordStruct>& wordList, const string& filePath) 
     return 0;
 }
 
-//  read a file as elements in a vector
+//  read a file as elements in a vector and make sure that the file can open 
 int readFile(vector<string>& reviews, const string& fileName) {
     ifstream inFile(fileName);
     if (!inFile.is_open()) {
@@ -62,9 +62,15 @@ int readFile(vector<string>& reviews, const string& fileName) {
     }
 
     stringstream ss;
-    ss << inFile.rdbuf();  
-    reviews.push_back(ss.str());  
+    ss << inFile.rdbuf();
+    string fileContents = ss.str();
 
+    if (fileContents.find("...") != string::npos) {
+        cout << "File " << fileName << " cannot be opened due to problematic sequences." << endl;
+        return -2;
+    }
+
+    reviews.push_back(fileContents);
     inFile.close();
     return 0;
 }
@@ -176,12 +182,12 @@ string getRandomNegativeWord(const vector<WordStruct>& wordList) {
 }
 
 void generateReviewsPart1(const vector<WordStruct>& wordList) {
-    ofstream outFile("C:/Users/abbyb/source/repos/base project2/reviewsPart1.txt");
+    ofstream outFile("reviewsPart1.txt");
     streambuf* originalCoutBuffer = cout.rdbuf();
     cout.rdbuf(outFile.rdbuf());
 
     for (int i = 1; i <= 8; i++) {
-        string fileName = "C:/Users/abbyb/source/repos/base project2/review" + (i == 5 ? "5a" : to_string(i)) + ".txt";
+        string fileName = "review" + (i == 5 ? "5a" : to_string(i)) + ".txt";
 
         vector<string> reviews;
         if (readFile(reviews, fileName) == -1) {
@@ -220,7 +226,7 @@ void processReviews(const vector<string>& reviews, const vector<WordStruct>& wor
         while (inSS >> tempWord) {
             string cleanedWord;
             for (char c : tempWord) {
-                if (isalpha(c)) {
+                if (isalpha(static_cast<unsigned char>(c))) {
                     cleanedWord += tolower(c);
                 }
             }
